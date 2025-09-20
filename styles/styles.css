@@ -1,3 +1,23 @@
+h1{
+  background-color: darkblue;
+  color: white;
+  padding: 16px;
+  text-algin: center;
+}
+nav{
+  background-color: darkblue;
+  padding: 10px;
+}
+nav a {
+  color: white;
+  display: block;
+  padding: 20px;
+}
+
+h1{
+  color: darkblue;
+}
+
 main{
   max-width: 840px;
 }
@@ -23,3 +43,4 @@ footer{
   border-top: 1px solid #000;
   text-algin: center;
 }
+
