@@ -3,10 +3,12 @@ h1{
   color: white;
   padding: 16px;
 }
+
 nav{
   background-color: darkblue;
   padding: 10px;
 }
+
 nav a {
   color: white;
   display: block;
@@ -20,12 +22,11 @@ h1{
 main{
   max-width: 840px;
 }
-main img{
-  width
+
 aside{
   width: 20rem;
   margin: 1rem;
-  border: 1px soild rgb( 0 0 0 / 0.2)
+  border: 1px solid rgb( 0, 0, 0, 0.2);
   padding: 1rem;
   background-color: #eee;
   color: #333;
@@ -35,6 +36,7 @@ aside img{
   width: 200px;
   height: auto;
 }
+
 p{
   padding: 0;
   text-align: center;
@@ -45,6 +47,7 @@ footer{
   border-top: 1px solid #000;
   text-align: center;
   }
+
 
 
 
