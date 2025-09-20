@@ -2,7 +2,6 @@ h1{
   background-color: darkblue;
   color: white;
   padding: 16px;
-  text-algin: center;
 }
 nav{
   background-color: darkblue;
@@ -21,6 +20,8 @@ h1{
 main{
   max-width: 840px;
 }
+main img{
+  w
 aside{
   width: 20rem;
   margin: 1rem;
@@ -31,7 +32,7 @@ aside{
   text-align: center;
 }
 aside img{
-  width: 150px;
+  width: 200px;
   height: auto;
 }
 p{
@@ -43,4 +44,5 @@ footer{
   border-top: 1px solid #000;
   text-algin: center;
 }
+
 
