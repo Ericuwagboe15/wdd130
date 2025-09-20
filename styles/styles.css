@@ -21,7 +21,7 @@ main{
   max-width: 840px;
 }
 main img{
-  w
+  width
 aside{
   width: 20rem;
   margin: 1rem;
@@ -37,6 +37,7 @@ aside img{
 }
 p{
   padding: 0;
+  text-align: center;
 }
 
 footer{
@@ -46,5 +47,6 @@ footer{
 footer p{
   text-align: center;
 }
+
 
 
