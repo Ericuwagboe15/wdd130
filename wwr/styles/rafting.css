@@ -5,8 +5,8 @@
 }
 
 body{
-    font-family: var(--body-font);
-    color: var(--accent1-color);
+    font-family: 'Times New Roman', Times, serif;
+    color: #555;
 }
 
 header, main, footer{
@@ -15,7 +15,7 @@ header, main, footer{
 }
 
 h1, h2{
-    font-family: var(--heading-font);
+    font-family: 'Times New Roman', Times, serif;
     color: darkblue;
 }
 
