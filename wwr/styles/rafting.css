@@ -1,3 +1,9 @@
+:root{
+    --accent1-color:#555;
+    --body-font: " Times New Roman";
+    --primary-color: #0f192d;
+}
+
 *{
   box-sizing: border-box;  
   margin: 0;
@@ -5,8 +11,8 @@
 }
 
 body{
-    font-family: 'Times New Roman', Times, serif;
-    color: #555;
+    font-family: var(--body-font);
+    color: var(--accent1-color);
 }
 
 header, main, footer{
@@ -15,8 +21,8 @@ header, main, footer{
 }
 
 h1, h2{
-    font-family: 'Times New Roman', Times, serif;
-    color: darkblue;
+    font-family: var(--heading-font);
+    color: var(--primary-color)
 }
 
 nav, p, section{
