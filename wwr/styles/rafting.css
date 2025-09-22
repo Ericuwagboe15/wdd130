@@ -1,6 +1,5 @@
 :root{
     --accent1-color:#555;
-    /* --body-font: "Times New Roman"; */
     --primary-color: #0f192d;
 }
 
@@ -11,7 +10,6 @@
 }
 
 body{
-    /* font-family: var(--body-font); */
     color: var(--accent1-color);
 }
 
@@ -21,7 +19,6 @@ header, main, footer{
 }
 
 h1, h2{
-    /* font-family: var(--heading-font); */
     color: var(--primary-color)
 }
 
