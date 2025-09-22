@@ -19,7 +19,7 @@ h1, h2{
     color: darkblue;
 }
 
-nav, p, section, article{
+nav, p, section{
     margin: 16px;
     padding: 8px;
 }
@@ -57,5 +57,15 @@ h1{
 .hero article img{
     float: right;
     width: 125px;
+}
+
+article{
+    position: absolute;
+    top: 150px;
+    width: 95%;
+    padding: 16px;
+    text-align: center;
+    background-color: darkblue;
+    color: #fff;
 }
 
