@@ -62,7 +62,6 @@ input,textarea,button{
 nav {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  margin-right: rem;
   padding:0;
   gap: 2rem;
 }
