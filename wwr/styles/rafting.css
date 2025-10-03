@@ -35,6 +35,25 @@ h1, h2{
     color: var(--primary-color)
 }
 
+.companyinfo{
+    text-align: center;
+    font-weight: bold;
+    font-size: small;
+}
+
+.maps{
+ display: grid;
+ grid-template-columns: repeat(2,1fr);
+ gap: 2rem;
+ padding: 1rem;
+}
+
+input,textarea,button{
+  padding: .75rem;
+     width: 300px;
+     height: 34px;
+}
+
 nav {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
